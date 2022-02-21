@@ -11,7 +11,7 @@ along with seven demographic variables. The following is a description of our da
 • Number of instances (Rows): 48,842 
 
 
-**Installation
+Installation**
 
 Be aready to mount the drive from Google Drive: 
 
