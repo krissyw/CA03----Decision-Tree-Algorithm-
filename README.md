@@ -22,11 +22,11 @@ In order for the program to run properly, make sure your csv files are located i
 For example:
 '/gdrive/MyDrive/BSAN6070/CA03/census_data.csv'
 
-**Usage
+**Usage**
 
 Train a Machine Learning algorithm to utilize a decision tree to make predictions on a US census data.
 
-**Contributing
+**Contributing**
 
 Revisions and updates are welcomed.
 
