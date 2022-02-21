@@ -11,7 +11,7 @@ along with seven demographic variables. The following is a description of our da
 • Number of instances (Rows): 48,842 
 
 
-Installation
+**Installation
 
 Be aready to mount the drive from Google Drive: 
 
@@ -22,11 +22,11 @@ In order for the program to run properly, make sure your csv files are located i
 For example:
 '/gdrive/MyDrive/BSAN6070/CA03/census_data.csv'
 
-Usage
+**Usage
 
 Train a Machine Learning algorithm to utilize a decision tree to make predictions on a US census data.
 
-Contributing
+**Contributing
 
 Revisions and updates are welcomed.
 
